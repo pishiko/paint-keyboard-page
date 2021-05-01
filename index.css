@@ -1,0 +1,28 @@
+img.title{
+    width:min(80%,320px);
+    height:auto;
+    margin-top:min(10%,40px);
+    margin-bottom:min(5%,20px);
+    margin-left:min(10%,40px);
+    margin-right:min(10%,40px);
+}
+img.button{
+    width:min(40%,160px);
+    height:auto;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+img{
+    width:min(100%,400px);
+    height:auto;
+}
+
+.space{
+    height:min(10%,40px)
+}
+
+body{
+    background-color: #FFFFDD;
+    text-align: center;
+}
